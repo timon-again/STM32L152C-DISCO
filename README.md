@@ -15,4 +15,5 @@ https://www.st.com/en/development-tools/sw4stm32.html#get-software
 After clicking on the link at the ST-Website, you get to the OpenSTM32 Community.
 After creating an account and logging in, you click on "System Workbench for STM32" at the menu on the left side.
 Now you can choose your download for your OS.
-# Datasheets
+#IDE
+There is the "STM32CubeIDE" by ST and the "System Workbench dor STM32". Both of them are Eclipsed based, but the System Workbench dor STM32 is easier to use with the STM32L152C-DISCO, becuase you can chose exact the STM32L152C-DISCO. The 
