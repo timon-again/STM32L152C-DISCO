@@ -26,4 +26,4 @@ There is the "STM32CubeIDE" by ST and the "System Workbench dor STM32". Both of 
   3. Click on the field next to the magnifying glass and type: "32L152CDISCOVERY".
   4. Click on the board and click on "Start Project".
   5. A pop-up-window comes up and askes for: "Initialize all peripherals with their default Mode ?", click "Yes".
-  6. 
+    Now you are in the  "Pinout & Configuration" tab, where you can change the the pinout and configurations, BUT THIS IS A DEMOBOARD, SO THE PINOUT AND THE CONFIGURATION IS ALREADY PRESET FOR THIS THE "STM32L152C-DISCO", SO DO NOT CHANGE ANY OF THEM!
