@@ -17,3 +17,13 @@ After creating an account and logging in, you click on "System Workbench for STM
 Now you can choose your download for your OS.
 #IDE
 There is the "STM32CubeIDE" by ST and the "System Workbench dor STM32". Both of them are Eclipsed based, but the System Workbench dor STM32 is easier to use with the STM32L152C-DISCO, becuase you can chose exact the STM32L152C-DISCO. The 
+
+# Step-by-Step instruction
+
+  1. Download and install the "STM32CubeMX" software.
+  
+  2. Click under "Start My project from STBoard" on the "ACCESS TO BOARD SELECTOR".
+  3. Click on the field next to the magnifying glass and type: "32L152CDISCOVERY".
+  4. Click on the board and click on "Start Project".
+  5. A pop-up-window comes up and askes for: "Initialize all peripherals with their default Mode ?", click "Yes".
+  6. 
