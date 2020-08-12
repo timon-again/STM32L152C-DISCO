@@ -44,4 +44,9 @@ STM32CubeIDE
   15. Under "STM32CubeMX .ico file" click on "Browse" and chose your folder, where you have saved your project that we created earlier with the 32CubeMX software. The project name should be loaded automatically.
   16. Under "Options" I am chosed "C" as my targeted language, but chose your language you are familiar with.
   17. Click on "Finish". In my chase the firmware was not compatible, so I clicked "Continue and the firmware downloaded automatically.
-  
+
+# GPIO TEST (Article is in Beta Phase)
+
+Click on your project, click on "Core", click on "SRC" and doubleclick pon "main.c".
+
+An exact discription is **Project**
